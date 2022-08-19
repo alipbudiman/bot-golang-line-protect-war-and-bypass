@@ -1,9 +1,8 @@
 # ![logo](https://i.ibb.co/zJvVhJ3/Untitled-design-88.png)
 
+**LINE GOLANG BOT**
 
 Bot LINE build by Golang, compatible using LINUX (Recommended UBUNTU 18/20) server as ROOT user
-
-**LINE GOLANG BOT**
 
 
 
