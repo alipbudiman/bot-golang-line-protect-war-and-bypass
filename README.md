@@ -96,9 +96,13 @@ Find folder db, and your database name in json format. You can add your Auth tok
 2. Using LINE Primary token (Android), you can get it from Sniffing your LINE account, generate from your Auth Key or [Contact me for buy token](https://line.me/ti/p/~alip_budiman)
 3. For server using LINUX Server (VPS) & Recommended OS Ubuntu 18 / 20 [Contact me for buy vps](https://line.me/ti/p/~alip_budiman)
 
-## Author
+## 5. Need Help?
+
 Any question or need more help? contact me:
 
 [Contact via LINE](https://line.me/ti/p/~alip_budiman)
+
+## ** Author **
+
 [Alip/Alif Budiman](https://fxgdev.site/alifbudiman.html)
 
