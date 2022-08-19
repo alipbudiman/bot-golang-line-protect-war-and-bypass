@@ -80,8 +80,8 @@ Find folder db, and your database name in json format. You can add your Auth tok
 ## 4. Extra
 
 1. Recommended run bot per 1 IP: 5-10 bot / account
-2. Using INE Primary token (Android), you can get it from Sniffing your LINE account, generate from your Auth Key or [Contact me for buy token](https://fxgdev.site/alifbudiman.html)
-3. For server using LINUX Server (VPS) & Recommended OS Ubuntu 18 / 20 Contact me for buy vps](https://fxgdev.site/alifbudiman.html)
+2. Using INE Primary token (Android), you can get it from Sniffing your LINE account, generate from your Auth Key or [Contact me for buy token](https://line.me/ti/p/~alip_budiman)
+3. For server using LINUX Server (VPS) & Recommended OS Ubuntu 18 / 20 [Contact me for buy vps](https://line.me/ti/p/~alip_budiman)
 
 ## Author
 [Alip/Alif Budiman](https://fxgdev.site/alifbudiman.html)
