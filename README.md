@@ -1,7 +1,7 @@
-# bot-golang-line-protect-war-and-bypass
-Bot LINE build by Golang, compatible using LINUX (Recommended UBUNTU 18/20) server as ROOT user
-
 # ![logo](https://i.ibb.co/zJvVhJ3/Untitled-design-88.png)
+
+
+Bot LINE build by Golang, compatible using LINUX (Recommended UBUNTU 18/20) server as ROOT user
 
 **LINE GOLANG BOT**
 
