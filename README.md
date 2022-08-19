@@ -99,5 +99,6 @@ Find folder db, and your database name in json format. You can add your Auth tok
 ## Author
 Any question or need more help? contact me:
 
+[Contact via LINE](https://line.me/ti/p/~alip_budiman)
 [Alip/Alif Budiman](https://fxgdev.site/alifbudiman.html)
 
