@@ -31,7 +31,7 @@ $ bash getapp.sh
 
 Follow this instruction in your console
 
-Type `./main <database namae / query>` and `enter` to run program
+Type `./main <database name (query)>` and `enter` to run program
 
 Example: `./main test`
 
@@ -64,3 +64,25 @@ If Done add your all token, press `enter`
 ###Preview:
 
 ![Screenshot 2022-08-19 174247](https://user-images.githubusercontent.com/82330418/185601932-5d0b9098-8481-4e1e-8a71-7efcef343554.png)
+
+You can setting Your Auth token directly form your database bot json.
+
+Find folder db, and your database name in json format. You can add your Auth token in `Authoken[]`
+
+```JSON
+  "Authoken": [
+    "token",
+    "token",
+    "token"
+  ]
+```
+
+## 4. Extra
+
+1. Recommended run bot per 1 IP: 5-10 bot / account
+2. Using INE Primary token (Android), you can get it from Sniffing your LINE account, generate from your Auth Key or [Contact me for buy token](https://fxgdev.site/alifbudiman.html)
+3. For server using LINUX Server (VPS) & Recommended OS Ubuntu 18 / 20 Contact me for buy vps](https://fxgdev.site/alifbudiman.html)
+
+## Author
+[Alip/Alif Budiman](https://fxgdev.site/alifbudiman.html)
+
