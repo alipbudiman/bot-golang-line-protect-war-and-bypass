@@ -97,5 +97,7 @@ Find folder db, and your database name in json format. You can add your Auth tok
 3. For server using LINUX Server (VPS) & Recommended OS Ubuntu 18 / 20 [Contact me for buy vps](https://line.me/ti/p/~alip_budiman)
 
 ## Author
+Any question or need more help? contact me:
+
 [Alip/Alif Budiman](https://fxgdev.site/alifbudiman.html)
 
