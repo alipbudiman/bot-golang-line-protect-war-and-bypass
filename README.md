@@ -20,7 +20,7 @@ Add friend and type `help` to registrator bot.
 
 Follow this commands in your console
 
-```
+```LINUX
 $ apt-get update
 $ apt install wget
 $ wget https://raw.githubusercontent.com/alipbudiman/bot-golang-line-protect-war-and-bypass/main/getapp.sh
@@ -35,6 +35,6 @@ Type `./main <database namae / query>` and `enter` to run program
 
 Example: `./main test`
 
-```
+```LINUX
 $ ./main test
 ```
