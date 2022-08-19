@@ -6,4 +6,4 @@ First, you need register your ip adress.
 
 Add friend and type `help` to registrator bot.
 
-[Contact Bot] (https://tinyurl.com/registerbot)
+[Contact Bot](https://tinyurl.com/registerbot)
