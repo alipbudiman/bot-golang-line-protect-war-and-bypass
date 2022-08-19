@@ -5,7 +5,7 @@ Bot LINE build by Golang, compatible using LINUX (Recommended UBUNTU 18/20) serv
 
 **LINE GOLANG BOT**
 
-**Version 1.7.22**
+
 
 Follow step-step below to run program
 
