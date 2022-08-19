@@ -32,6 +32,18 @@ Follow this instruction in your console
 
 if you have not / want to create a new database, then you can directly type the name of the database. if you want to run an existing database, you can type the name of the database you have created
 
+**Create screen**
+
+Type `screen -R <database name (query)>` and `enter` to create screen
+
+Example: `screen -R test`
+
+```LINUX
+$ screen -R test
+```
+
+**Run Program**
+
 Type `./main <database name (query)>` and `enter` to run program
 
 Example: `./main test`
