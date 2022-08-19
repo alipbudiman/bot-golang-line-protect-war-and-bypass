@@ -38,3 +38,29 @@ Example: `./main test`
 ```LINUX
 $ ./main test
 ```
+
+## 3. Setting up!
+
+if your first running this script, the program will created "db" folder and database json
+
+you can see your database in "db" folder
+
+if your bot database token is empty, program will ask you to enter a token
+
+###Preview:
+
+![Screenshot 2022-08-19 173625](https://user-images.githubusercontent.com/82330418/185601016-7d4fc56b-1285-46e2-bcf6-63ae587b2437.png)
+
+You can input / paste your **primary token (Android)** directly on your console. after that, press enter
+
+###Example:
+
+![Screenshot 2022-08-19 174002](https://user-images.githubusercontent.com/82330418/185601550-4ebaa2c1-ef30-428d-bb0a-69c0f01f3a3a.png)
+
+If You want add more, just type `y` and press enter, programm will ask you to enter a token
+
+If Done add your all token, press `enter`
+
+###Preview:
+
+![Screenshot 2022-08-19 174247](https://user-images.githubusercontent.com/82330418/185601932-5d0b9098-8481-4e1e-8a71-7efcef343554.png)
