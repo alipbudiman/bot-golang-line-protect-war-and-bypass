@@ -4,7 +4,7 @@
 
 Bot LINE build by Golang, compatible using LINUX (Recommended UBUNTU 18/24) server as ROOT user
 
-[Documentation](https://github.com/alipbudiman/bot-golang-line-protect-war-and-bypass/blob/main/documentation.md#documentation)
+[- _Documentation_](https://github.com/alipbudiman/bot-golang-line-protect-war-and-bypass/blob/main/documentation.md#documentation)
 
 # INSTRUCTION
 
