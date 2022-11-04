@@ -2,7 +2,7 @@
 
 **LINE GOLANG BOT**
 
-Bot LINE build by Golang, compatible using LINUX (Recommended UBUNTU 18-24) server as ROOT user
+Bot LINE build by Golang, compatible using LINUX (Recommended UBUNTU 18-20) server as ROOT user
 
 [- _Documentation_](https://github.com/alipbudiman/bot-golang-line-protect-war-and-bypass/blob/main/documentation.md#documentation)
 
